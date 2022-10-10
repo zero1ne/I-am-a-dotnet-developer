@@ -1,3 +1,3 @@
-[submodule "DesignPatternsLibrary"]
-	path = DesignPatternsLibrary
+[submodule "DESIGN_PATTERNS/DesignPatternsLibrary"]
+	path = DESIGN_PATTERNS/DesignPatternsLibrary
 	url = https://github.com/nemanjarogic/DesignPatternsLibrary.git
